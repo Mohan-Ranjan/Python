@@ -1,6 +1,7 @@
 Python
 
 Student Progression Prediction Program
+
 This Python program helps predict and display the progression outcomes of students based on their academic credits in the categories of Pass, Defer, and Fail. 
 The program allows input for multiple students, calculates their progression outcomes, and generates histograms to visualize the results.
 
