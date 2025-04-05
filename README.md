@@ -5,6 +5,7 @@ This Python program helps predict and display the progression outcomes of studen
 The program allows input for multiple students, calculates their progression outcomes, and generates histograms to visualize the results.
 
 Features
+
 Student Progression Outcome Prediction
 The program prompts the user for the number of credits in Pass, Defer, and Fail.
 Based on the inputs, the program determines the student's progression outcome:
